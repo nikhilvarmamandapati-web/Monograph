@@ -1,0 +1,6 @@
+{
+  "name": "Monograph - Editorial Blog & Publishing Platform",
+  "description": "A modern, full-stack blog publishing platform built with React, Node.js, and MongoDB document storage. Featuring rich writing tools, draft management, categories, reader engagement, and database inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
